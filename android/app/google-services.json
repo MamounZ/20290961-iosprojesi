@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297474317335",
+    "project_id": "mamounjszaid",
+    "storage_bucket": "mamounjszaid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297474317335:android:003027677716a30cf49052",
+        "android_client_info": {
+          "package_name": "com.example.mamoun_js_zaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297474317335-f185b8f30tu2fdtte1r2bl3ktn2lalj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQCqQASJtCl0bvfQx3ITFt0SfWJSqTvIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297474317335-f185b8f30tu2fdtte1r2bl3ktn2lalj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
